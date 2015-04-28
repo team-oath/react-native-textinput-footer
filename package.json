@@ -1,0 +1,29 @@
+{
+  "name": "react-native-textinput-footer",
+  "version": "1.0.0",
+  "description": "a textinput footer that slides with the keyboard for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/team-oath/react-native-textinput-footer.git"
+  },
+  "keywords": [
+    "textinput",
+    "footer",
+    "react-native",
+    "responsive",
+    "slide"
+  ],
+  "author": "mrblueblue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/team-oath/react-native-textinput-footer/issues"
+  },
+  "homepage": "https://github.com/team-oath/react-native-textinput-footer",
+  "dependencies": {
+    "react-native": "^0.4.1"
+  }
+}
